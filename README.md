@@ -4,7 +4,7 @@ NCU INN STACK 日常维护工作（提 Issue ）
 
 ## NCU INN STACK 是什么
 
-我们的 NCU INN STACK :nanchangU:
+我们的 NCU INN STACK ![:nanchangU:](https://cdn.discordapp.com/emojis/1376900416268140655.webp?size=44)
 
 这是一个为计算机爱好者打造的，集学习、分享、趣味互动于一体的社群。
 
@@ -12,7 +12,7 @@ NCU INN STACK 日常维护工作（提 Issue ）
 
 期待与你一同打磨 NCU INN STACK！
 
-## QQ 群公告（群主QQ：903928770）
+## QQ 群公告（想加入可以加群主QQ：903928770）
 
 👋🏻群精华 为 Discord 链接
 
