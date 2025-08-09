@@ -1,16 +1,16 @@
-# NCU-INN-STACK
+# INN-STACK
 
-NCU INN STACK 日常维护工作（提 Issue ）
+INN STACK 日常维护工作（提 Issue ）
 
-## NCU INN STACK 是什么
+## INN STACK 是什么
 
-我们的 NCU INN STACK ![:nanchangU:](https://cdn.discordapp.com/emojis/1376900416268140655.webp?size=44)
+我们的 INN STACK ![:nanchangU:](https://cdn.discordapp.com/emojis/1376900416268140655.webp?size=44)
 
 这是一个为计算机爱好者打造的，集学习、分享、趣味互动于一体的社群。
 
 你的每一个建议都对我们非常重要！
 
-期待与你一同打磨 NCU INN STACK！
+期待与你一同打磨 INN STACK！
 
 ## QQ 群公告（想加入可以加群主QQ：903928770）
 
@@ -18,7 +18,7 @@ NCU INN STACK 日常维护工作（提 Issue ）
 
 这是一个为计算机爱好者打造的，集学习、分享、趣味互动于一体的社群。
 
-我们非常重视每一位小伙伴的想法💡，你的每一个建议对我们来说都无比重要，让我们一起把 NCU INN STACK 打磨得更加完美吧🤝！
+我们非常重视每一位小伙伴的想法💡，你的每一个建议对我们来说都无比重要，让我们一起把 INN STACK 打磨得更加完美吧🤝！
 
 需要注意的是， QQ 群只是一个中转站哦🚉，精彩的活动将在 Discord 服务器展开🎊。
 
